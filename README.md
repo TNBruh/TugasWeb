@@ -2,7 +2,7 @@
 A) 3 hal utama yang diminta dari ppt
 
 B) Penjelasan yang lebih dalam
-##**A)**
+## **A)**
 ### **Package**
 * Pymongo untuk MongoDB
 * Tkinter
