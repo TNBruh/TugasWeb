@@ -1,4 +1,8 @@
 # TugasWeb
+A. 3 hal utama yang diminta dari ppt
+
+B. Penjelasan yang lebih dalam
+
 ## **Package**
 * Pymongo untuk MongoDB
 * Tkinter
