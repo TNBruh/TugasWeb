@@ -1,12 +1,12 @@
 # TugasWeb
-##**Package**
+## **Package**
 * Pymongo untuk MongoDB
 * Tkinter
 
-##**How to run**
+## **How to run**
 Jalankan mongod.exe kemudian jalankan Control.py
 
-##**Feature**
+## **Feature**
 * Mendaftarkan diri
 * Membentuk tim
 * Menambah dan mengurangi anggota
