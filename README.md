@@ -1,7 +1,7 @@
 # TugasWeb
 A) 3 hal utama yang diminta dari ppt
 
-B) Penjelasan yang lebih dalam
+B) Bagian Utama
 ## **A)**
 ### **Package**
 * Pymongo untuk MongoDB
@@ -10,7 +10,7 @@ B) Penjelasan yang lebih dalam
 ### **How to run**
 Jalankan mongod.exe kemudian jalankan Control.py
 
-### **Feature**
+### **Fitur**
 * Mendaftarkan diri
 * Membentuk tim
 * Menambah dan mengurangi anggota
