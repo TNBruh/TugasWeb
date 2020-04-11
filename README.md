@@ -1,7 +1,7 @@
 # TugasWeb
 A) 3 hal utama yang diminta dari ppt
 
-B) Bagian Utama
+B) Penjelasan singkat dari Component, Model, Control
 ## **A)**
 ### **Package**
 * Pymongo untuk MongoDB
