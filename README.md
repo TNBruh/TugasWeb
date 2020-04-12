@@ -11,9 +11,9 @@ B) Penjelasan singkat dari Component, Model, Control
 Jalankan mongod.exe kemudian jalankan Control.py
 
 ### **Fitur**
-[Video Fitur](https://youtu.be/emcaMHvuGL0)
+[Video fitur](https://youtu.be/emcaMHvuGL0)
 
-[Video Fitur tambahan](https://youtu.be/mMCj-JDJdLM)
+[Video fitur tambahan](https://youtu.be/mMCj-JDJdLM)
 * Mendaftarkan diri
 * Membentuk tim
 * Menambah dan mengurangi anggota
