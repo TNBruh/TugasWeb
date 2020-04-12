@@ -12,6 +12,7 @@ Jalankan mongod.exe kemudian jalankan Control.py
 
 ### **Fitur**
 [Video Fitur](https://youtu.be/emcaMHvuGL0)
+
 [Video Fitur tambahan](https://youtu.be/mMCj-JDJdLM)
 * Mendaftarkan diri
 * Membentuk tim
